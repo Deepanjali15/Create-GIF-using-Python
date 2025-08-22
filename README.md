@@ -1,7 +1,6 @@
 **#Create GIF using Python**
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![GIF](https://img.shields.io/badge/Animated%20GIF-Yes-green)
 
-
 **Project Description:**
 This project demonstrates how to create animated GIFs from a collection of images using Python. By leveraging the Pillow, NumPy, and ImageIO libraries, this script reads multiple images, resizes them to a consistent dimension, handles different color channels (RGB or grayscale), and generates a looping GIF in just a few lines of code.
 
