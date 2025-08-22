@@ -1,42 +1,39 @@
-Create GIF using Python
+**#Create GIF using Python**
 
-Project Description:
+**Project Description:**
 This project demonstrates how to create animated GIFs from a collection of images using Python. By leveraging the Pillow, NumPy, and ImageIO libraries, this script reads multiple images, resizes them to a consistent dimension, handles different color channels (RGB or grayscale), and generates a looping GIF in just a few lines of code.
 
-Key Features:
+**Key Features:**
 
-Combine multiple images into a GIF.
+1. Combine multiple images into a GIF.
 
-Automatic resizing to a uniform width and height.
+2. Automatic resizing to a uniform width and height.
 
-Supports both color and grayscale images.
+3. Supports both color and grayscale images.
 
-Fully configurable GIF duration and looping.
+4. Fully configurable GIF duration and looping.
 
-Minimal code, easy to understand and reuse.
+5. Minimal code, easy to understand and reuse.
 
-Technologies Used:
+**Technologies Used:**
 
-Python 3.x
+1. Python 3.x
 
-Pillow (PIL) for image processing
+2. Pillow (PIL) for image processing
 
-NumPy for array manipulation
+3. NumPy for array manipulation
 
-ImageIO for GIF creation
+4. ImageIO for GIF creation
 
-Usage:
+**Usage:**
 
-Place your images in a folder (e.g., images/).
+1. Place your images in a folder (e.g., images/).
 
-Update the script to point to your images or use the automatic folder scanning option.
+2. Update the script to point to your images or use the automatic folder scanning option.
 
-Run the script:
+3. Run the script:   python create_gif.py
 
-python create_gif.py
+4. A GIF (team.gif) will be generated in the project folder.
 
-
-A GIF (team.gif) will be generated in the project folder.
-
-Purpose:
+**Purpose:**
 This project is ideal for beginners looking to explore image processing, automation, and Python scripting. It’s a fun way to learn how to manipulate images and create animations programmatically.
